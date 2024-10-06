@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Salma EL HASSNAOUI
 - 👀 I’m interested in web developpment
 - ✨ **My PORTFOLIO** ✨ ? https://salmaportfolio.vercel.app/
-- 📫 How to reach me ? elhassnaouisalma@gmail.com
+- 📫 How to reach me ? elhassnaouisalma11@gmail.com
 
 <p align="center">
   <a href="https://skillicons.dev">
