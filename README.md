@@ -1,7 +1,6 @@
   <img src="https://i.ibb.co/8zY5hHy/SALMA-EL-HASSNAOUI-2.png" alt="SALMA-EL-HASSNAOUI-2" border="0" style="width:1200px;height:200px;">
 
 - 👋 Hi, I’m Salma EL HASSNAOUI
-- 👀 I’m interested in web developpment
 - ✨ **My PORTFOLIO** ✨ ? https://salmaportfolio.vercel.app/
 - 📫 How to reach me ? elhassnaouisalma11@gmail.com
 
